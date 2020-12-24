@@ -8,8 +8,14 @@ If you have follow step above with true, application should working with correct
 
 # User Access
   <b>Admin</b> <br>
-  <b>username : admin</b> <br>
-  <b>pass     :12345</b>
+  username : admin <br>
+  pass     :12345
+
+<br><br>
+# Dashboard Page
+<img src="image/dashboard1.png" width="75%" height="50%">
+
+
 
 
 
