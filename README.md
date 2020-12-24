@@ -13,7 +13,7 @@ If you have follow step above with true, application should working with correct
 
 <br><br>
 # Dashboard Page
-<img src="image/dashboard1.png" width="75%" height="50%">
+<img src="image/dashboard1.png" title="hover text" width="75%" height="50%">
 
 
 
