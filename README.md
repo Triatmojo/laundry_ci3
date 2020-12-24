@@ -10,7 +10,7 @@ If you have follow step above with true, application should working with correct
 
 # User Access
   <b>Admin</b> <br>
-  <b>username: admin</b> <br>
+  <b>username : admin</b> <br>
   <b>pass     :12345</b>
 
 
